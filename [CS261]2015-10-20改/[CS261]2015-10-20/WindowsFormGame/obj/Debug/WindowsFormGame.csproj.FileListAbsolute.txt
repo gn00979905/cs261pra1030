@@ -1,0 +1,14 @@
+D:\Project\test\2015-10-20\範例程式碼\[CS261]2015-10-20\WindowsFormGame\bin\Debug\WindowsFormGame.exe.config
+D:\Project\test\2015-10-20\範例程式碼\[CS261]2015-10-20\WindowsFormGame\bin\Debug\WindowsFormGame.exe
+D:\Project\test\2015-10-20\範例程式碼\[CS261]2015-10-20\WindowsFormGame\bin\Debug\WindowsFormGame.pdb
+D:\Project\test\2015-10-20\範例程式碼\[CS261]2015-10-20\WindowsFormGame\bin\Debug\GameLibrary.dll
+D:\Project\test\2015-10-20\範例程式碼\[CS261]2015-10-20\WindowsFormGame\bin\Debug\GameLibrary.pdb
+D:\Project\test\2015-10-20\範例程式碼\[CS261]2015-10-20\WindowsFormGame\obj\Debug\WindowsFormGame.csprojResolveAssemblyReference.cache
+D:\Project\test\2015-10-20\範例程式碼\[CS261]2015-10-20\WindowsFormGame\obj\Debug\WindowsFormGame.Form1.resources
+D:\Project\test\2015-10-20\範例程式碼\[CS261]2015-10-20\WindowsFormGame\obj\Debug\WindowsFormGame.Properties.Resources.resources
+D:\Project\test\2015-10-20\範例程式碼\[CS261]2015-10-20\WindowsFormGame\obj\Debug\WindowsFormGame.csproj.GenerateResource.Cache
+D:\Project\test\2015-10-20\範例程式碼\[CS261]2015-10-20\WindowsFormGame\obj\Debug\WindowsFormGame.exe
+D:\Project\test\2015-10-20\範例程式碼\[CS261]2015-10-20\WindowsFormGame\obj\Debug\WindowsFormGame.pdb
+C:\Users\gn00979905\Documents\[CS261]2015-10-20改\[CS261]2015-10-20\WindowsFormGame\bin\Debug\WindowsFormGame.exe.config
+C:\Users\gn00979905\Documents\[CS261]2015-10-20改\[CS261]2015-10-20\WindowsFormGame\obj\Debug\WindowsFormGame.exe
+C:\Users\gn00979905\Documents\[CS261]2015-10-20改\[CS261]2015-10-20\WindowsFormGame\obj\Debug\WindowsFormGame.pdb
